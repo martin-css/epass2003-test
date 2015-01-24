@@ -64,7 +64,7 @@ by using Vagrant to SSH to your VM if you are not already connected.
 
 Ensure that your token has been prepared as above. Run the test script, entering the PIN of **1234** when required.
 
-```/vagrant/test_ssh_agent.sh```
+`/vagrant/test_ssh_agent.sh`
 
 This will run through the test cycle and output one of two results at the end.
 
