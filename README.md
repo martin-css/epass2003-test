@@ -43,7 +43,7 @@ Use Vagrant to SSH to your VM.
 
 Prepare your token by running the token preparation script.
 
-```/vagrant/token-prepare.sh```
+`/vagrant/token-prepare.sh`
 
 This will use the OpenSC tools to initialise your token with a default PIN of **1234** and store the RSA key generated during 
 provisioning on the token so the tests can be performed.
